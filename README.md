@@ -1,1 +1,2 @@
 # QuantityHandling
+The purpose is to take in random structured data, that consist list with nested dict, to find specific group of quantity information and compile it into local BQ usable information set. To do that, the random structured data will first going through Laundry to reformat the data structure into usable format, then uses Wallqty and the sort to ‘search’ specific quantity and sum them. Then lastly pass over to reformatting into industry experts usable format and structure for further application.
