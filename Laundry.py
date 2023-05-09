@@ -9,7 +9,7 @@ import pandas as pd
 # Then, further serialize multiple lists of dict into normal nested dict. 
 # Lastly, do the same thing again for next element until all elements does.
 #
-# Copyright 2022, Chew Siak Kor, siakkor.chew@gmail.com
+# Copyright 2022 - 2023, Chew Siak Kor, siakkor.chew@gmail.com
 #
 
 ################## Data Laundrying Section ####################
