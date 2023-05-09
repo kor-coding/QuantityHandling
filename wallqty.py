@@ -8,7 +8,7 @@ import json
 # Upon finding keyword, then uses iter_func to determine the correct number of those matched item. 
 # Then compose them into a new list. Lastly, summing up the value of the list.
 #
-# Copyright 2022, Chew Siak Kor, siakkor.chew@gmail.com
+# Copyright 2022 - 2023, Chew Siak Kor, siakkor.chew@gmail.com
 #
 
 ################## Universal Functions ####################
