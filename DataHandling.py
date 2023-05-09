@@ -20,7 +20,7 @@ from .Laundry import data_laundry_func
 # Compile extracted bill item quantities into OmniClass, MYSMM3, or even any other BQ required item type and structure. 
 # Lastly compose it all into a brand new nested dict.
 #
-# Copyright 2022, Chew Siak Kor, siakkor.chew@gmail.com
+# Copyright 2022 - 2023, Chew Siak Kor, siakkor.chew@gmail.com
 #
 
 def processor(request):
